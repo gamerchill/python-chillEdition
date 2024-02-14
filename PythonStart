@@ -1,0 +1,16 @@
+#This is a comment
+
+"""
+Multi
+line 
+comment
+"""
+#variables
+
+aString = "world"
+number = 5
+decimals = 2.14
+
+#Print statements
+print("Hello World") 
+print(f"String polarization is cool. My favorite number is {number} and my favorite irrational goes along the lines of {decimals})
